@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1591534531 source:/home/steven/Documents/Homework2_3/main.cpp
-	<stdio.h>
-	<string.h>
-	<curl/curl.h>
-	<fstream>
-	<boost/filesystem.hpp>
-

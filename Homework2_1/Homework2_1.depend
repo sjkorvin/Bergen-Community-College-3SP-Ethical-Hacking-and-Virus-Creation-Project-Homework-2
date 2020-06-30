@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1591527467 source:/home/steven/Documents/Homework2_1/main.cpp
-	<boost/filesystem.hpp>
-	<iostream>
-
